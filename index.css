@@ -1,0 +1,11 @@
+html, body, #root {
+    width: 100%;
+    height: 100%;
+}
+
+button {
+    background-color: #0c80f3;
+    border: 6px solid #0ff166;
+    border-radius: 10px;
+    width: 150px;
+}
